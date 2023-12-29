@@ -1,3 +1,4 @@
+#SOIT 107_ADVANCE_012
 a = int(input())
 
 for i in range(a):
